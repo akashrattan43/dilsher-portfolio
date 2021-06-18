@@ -1,0 +1,92 @@
+{
+    "basic_info": {
+      "description_header": "Hi",
+      "description": "👋 I'm Davina Griss. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Dorota1997. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
+      "section_name": {
+        "about": "About me",
+        "projects": "Projects",
+        "skills": "Skills",
+        "experience": "Experience"
+      }
+    },
+    "projects": [
+      {
+        "title": "106 Project",
+        "startDate": "2021",
+        "description": "Automated Blinds",
+        "images": [
+          "images/portfolio/animal-shelter/auto.jpg"
+        ],
+        "url": "https://www.youtube.com/watch?v=l62_CO2rL6I",
+        "technologies": [
+          {
+            "class": "",
+            "name": ""
+          },
+          {
+            "class": "",
+            "name": ""
+          },
+          {
+            "class": "",
+            "name": ""
+          }
+        ]
+      },
+      {
+        "title": "IR Tachometer",
+        "startDate": "2021",
+        "description": "IR Tachometer",
+        "images": [
+          "images/portfolio/photography/ir.jpg"
+        ],
+        "url": "https://www.youtube.com/watch?v=iplj1uvPVe4",
+        "technologies": [
+          {
+            "class": "",
+            "name": ""
+          },
+          {
+            "class": "",
+            "name": ""
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "Intel",
+        "title": "Technical Intern",
+        "years": "11.20 - 04.21",
+        "mainTech": [
+          "Engineer 8/9/10"
+        ],
+        "technologies": [
+          "REST API",
+          "RxJS",
+          "JavaScript",
+          "Bootstrap",
+          "MDBootstrap",
+          "EF Core",
+          ".NET Core",
+          "SignalR",
+          "Angular Material"
+        ]
+      },
+      {
+        "company": "Creative Security Company",
+        "title": "Supervisor",
+        "years": "01.2015 - Present",
+        "mainTech": [
+          "Security 1/15"
+        ],
+        "technologies": [
+          "RxJS",
+          "Django",
+          "PHP",
+          "JavaScript",
+          "DHTMLX Gantt"
+        ]
+      }
+    ]
+  }
