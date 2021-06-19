@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hi",
-      "description": "👋 I'm Dilsher singh. I am a mechanical Engineer.",
+      "description": "👋 I'm Dilsher singh. I am a student majoring in Mechanical Engineering and minoring in Electronics materials and processing. I will completeing my BS/Mechanical engineering with an emphasis on Design and Testing and minoring in Electronics Materials and processing in June 2022. I have completed several mechanical engineering projects throughout my courses and last fall and spring, I did projects named clean housing energy and solar boar, where I designed prototypes, conducted testing, and prepared summary reports on the project. I think your company produces great products and I'm very interested in assuming a postion at your company ",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -57,35 +57,64 @@
       {
         "company": "Intel",
         "title": "Technical Intern",
-        "years": "11.20 - 04.21",
+        "years": "01.20 - 12.20",
         "mainTech": [
           "Engineer 8/9/10"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
-          "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
+          "Nodes",
+          "Clusters",
+          "Python",
+          "ISMP",
+          "Mechanical",
           "EF Core",
           ".NET Core",
-          "SignalR",
-          "Angular Material"
+          "Troubleshooting",
+          "Datacenter"
         ]
       },
       {
         "company": "Creative Security Company",
         "title": "Supervisor",
-        "years": "01.2015 - Present",
+        "years": "08.2017 - Present",
         "mainTech": [
           "Security 1/15"
         ],
         "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
+          "Supervisor",
+          "Security",
+          "Team",
+          "Performence",
+          "Reports"
+        ]
+      },
+      {
+        "company": "Rail Coach Factory",
+        "title": "Mechanical Intern",
+        "years": "06.2014 - 07.2014",
+        "mainTech": [
+          "Intern 1/15"
+        ],
+        "technologies": [
+          "Duties",
+          "Prints",
+          "Performence",
+          "Process Center"
+        ]
+      },
+      {
+        "company": "CIHT",
+        "title": "2D/3D Drafting",
+        "years": "02.2013 - 03.2013",
+        "mainTech": [
+          "Intern 1/15"
+        ],
+        "technologies": [
+          "Supervisor",
+          "Duties",
+          "Prints",
+          "Performence",
+          "Process Center"
         ]
       }
     ]
