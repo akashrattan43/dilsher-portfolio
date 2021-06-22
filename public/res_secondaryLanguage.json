@@ -1,12 +1,12 @@
 {
     "basic_info": {
-      "description_header": "Cześć",
-      "description": "👋 Je suis Dilsher singh. Je suis un étudiant avec une spécialisation en génie mécanique et une mineure en matériaux et traitement électroniques. Je terminerai mon baccalauréat en génie mécanique en mettant l'accent sur la conception et les tests et une mineure en matériaux et traitement électroniques en juin 2022. J'ai réalisé plusieurs projets de génie mécanique tout au long de mes cours et l'automne et le printemps derniers, j'ai réalisé des projets nommés énergie propre pour les logements et sanglier solaire, où j'ai conçu des prototypes, effectué des tests et préparé des rapports de synthèse sur le projet. Je pense que votre entreprise fabrique d'excellents produits et je suis très intéressé à assumer un poste dans votre entreprise",
+      "description_header": "Hola",
+      "description": "👋 Soy Dilsher Singh. Soy un estudiante con especialización en Ingeniería Mecánica y con especialización en materiales y procesamiento de Electrónica. Completaré mi BS / Ingeniería Mecánica con énfasis en Diseño y Pruebas y especialización en Materiales y Procesamiento de Electrónica en junio de 2022. Completé varios proyectos de ingeniería mecánica a lo largo de mis cursos y el otoño y la primavera pasados, hice proyectos llamados energía de vivienda limpia y jabalí solar, donde diseñé prototipos, realicé pruebas y preparé informes resumidos del proyecto. Creo que su empresa produce excelentes productos y estoy muy interesado en asumir un puesto en su empresa.",
       "section_name": {
-        "about": "O mnie",
-        "projects": "Projekty",
-        "skills": "Umiejętności",
-        "experience": "Doświadczenie"
+        "about": "acerca de",
+        "projects": "proyecto",
+        "skills": "habilidades",
+        "experience": "experiencia"
       }
     },
     "projects": [
