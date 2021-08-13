@@ -13,7 +13,7 @@
       {
         "title": "106 Project",
         "startDate": "2021",
-        "description": "Automated Blinds",
+        "description": "This project is solving the problem of wasted energy within buildings and homes, because currently the lights turned on inside buildings do not utilize natural, ambient light from the sun. Rather than having unnecessary light from a light source, the automated light sensing smart blinds can sense the amount of light outside the window and in the room, and then adjust the angle of the blinds to save energy by utilizing the available outdoor light. This way, the light source will not be running at maximum power output while there is excess light coming through the window. This project aims to design and construct the light sensing blinds to achieve the aforementioned goals. Hardware test results from this project demonstrate the capabilities of the smart blind system to measure ambient light outside the window, to adjust the angle of each of the blinds on the window, and to change the desired brightness of the room. ",
         "images": [
           "images/portfolio/animal-shelter/auto.jpg"
         ],
@@ -36,7 +36,7 @@
       {
         "title": "IR Tachometer",
         "startDate": "2021",
-        "description": "IR Tachometer",
+        "description": "The functionality and sensitivity of an IR sensor were explored in this experiment. The use of datasheets and circuit design were utilized and improved in the process of designing a personalized tachometer. A deeper understanding in the application of DAQ and LabVIEW software was acquired. One lesson learned was the difference in ability between my DAQ and BNC2120 DAQ. It was discovered that my DAQ does not have a counter, and therefore required more advanced LabVIEW programming to output a rotational speed reading. The BNC2120 DAQ counter function was explored in this experiment and made the frequency to rotational speed conversion relatively simple. Another lesson learned was to continually measure the interrupters voltage signal output with a DMM to ensure the collector and emitter was not damaged with the variation of voltage. It is highly recommended to reference the datasheet for your specific IR sensor and an addition of pulldown resistors to each node except the ground when wiring the interrupter. It is common to burn out the emitter diodes, even with voltages within the datasheet specifications. Due to this possibility, consistently checking that the IR sensor is functioning properly using a DMM can save a lot of time. Secondly, to improve the accuracy of frequency readings, it is recommended to provide a shield around the IR sensor to reduce ambient light noise. The more consistency introduced into the experiment, the higher the likelihood of accurate results.",
         "images": [
           "images/portfolio/photography/ir.jpg"
         ],
@@ -51,8 +51,51 @@
             "name": ""
           }
         ]
+      },
+      {
+        "title": "Save The Car",
+        "startDate": "2021",
+        "description": "This poster describes the design and implementation of a senior project involving a Solar Panel Shed for the parking lot. During the summer times the cars parked outside, the interior temperature can become very high causing discomfort for the driver and passengers. Therefore a device is needed to keep the vehicle interior at comfortable temperatures while standing in the parking lot.",
+        "images": [
+          "images/portfolio/photography/poster.jpg"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "",
+            "name": ""
+          },
+          {
+            "class": "",
+            "name": ""
+          }
+        ]
+      },
+      {
+        "title": "Trash compactor",
+        "startDate": "2021",
+        "description": "We designed a household trash can compactor to help reduce the amount of plastic bags being used. The trash can compressor will be made out of stainless steel equipped With two safety sensors and  two solenoids in both doors to make sure they stay locked as the compactor moves. The mechanism will be powered by a wall outlet. The compressor  is run by a power screw that runs at ⅓ hp and it will unfold 21 in , making the arms come down in 10 seconds and 10 seconds to come back up.  The power screw is designed to fold back up when it  feels a pressure of 2300 lbs So the links won't bend.",
+        "images": [
+          "images/portfolio/photography/dust.png"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "",
+            "name": ""
+          },
+          {
+            "class": "",
+            "name": ""
+          },
+          {
+            "class": "",
+            "name": ""
+          }
+        ]
       }
     ],
+    
     "experience": [
       {
         "company": "Intel",
