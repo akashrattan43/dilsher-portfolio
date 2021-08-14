@@ -93,6 +93,52 @@
             "name": ""
           }
         ]
+      },
+      {
+        "title": "Guess Game",
+        "startDate": "2021",
+        "description": "Play game is an interactive program, which will ask the user to guess letters in order to find the word. The word has missing letters and can only be completed with the right letter. The game only gives three attempts to win. The words are input in a dictionary provided in the code. The script contains a randrange function to get a random word, and also a while loop, which make the program run till the user guess is right, or run out of attempts.",
+        "images": [
+          "images/portfolio/photography/guessgame.jpg"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "",
+            "name": ""
+          },
+          {
+            "class": "",
+            "name": ""
+          },
+          {
+            "class": "",
+            "name": ""
+          }
+        ]
+      },
+      {
+        "title": "Wall Plaster Machine",
+        "startDate": "2021",
+        "description": "The machine is a residential building, office building wall plastering special equipment. Wipable walls are: cement walls, brick walls, hollow walls, light brick walls, brick walls and so on. Applicable ash is: white sand gray, stone powder, cement ash, foam mortar, dry powder mortar, gypsum and so on. Plaster thickness of 3cm below the plaster height of 5m can be used below.",
+        "images": [
+          "images/portfolio/photography/yellow.jpeg"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "",
+            "name": ""
+          },
+          {
+            "class": "",
+            "name": ""
+          },
+          {
+            "class": "",
+            "name": ""
+          }
+        ]
       }
     ],
     
