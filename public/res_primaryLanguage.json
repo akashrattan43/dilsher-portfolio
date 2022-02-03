@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hi",
-      "description": "👋 I'm Dilsher singh. I am a student majoring in Mechanical Engineering and minoring in Electronics materials and processing. I will completeing my BS/Mechanical engineering with an emphasis on Design and Testing and minoring in Electronics Materials and processing in June 2022. I have completed several mechanical engineering projects throughout my courses and last fall and spring, I did projects named clean housing energy and solar boar, where I designed prototypes, conducted testing, and prepared summary reports on the project. I think your company produces great products and I'm very interested in assuming a postion at your company ",
+      "description": "👋 I'm Dilsher singh. I am a student majoring in Mechanical Engineering with specialization in Mechatronics. I will completeing my BS/Mechanical engineering with an emphasis on Design and Testing in Spring 2022. I have completed several mechanical engineering projects throughout my courses and last fall and spring, I did projects named clean housing energy and solar boar, where I designed prototypes, conducted testing, and prepared summary reports on the project. I think your company produces great products and I'm very interested in assuming a postion at your company",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -54,7 +54,7 @@
       },
       {
         "title": "Save The Car",
-        "startDate": "2021",
+        "startDate": "2018",
         "description": "This poster describes the design and implementation of a senior project involving a Solar Panel Shed for the parking lot. During the summer times the cars parked outside, the interior temperature can become very high causing discomfort for the driver and passengers. Therefore a device is needed to keep the vehicle interior at comfortable temperatures while standing in the parking lot.",
         "images": [
           "images/portfolio/photography/poster.jpg"
@@ -96,7 +96,7 @@
       },
       {
         "title": "Guess Game",
-        "startDate": "2021",
+        "startDate": "2017",
         "description": "Play game is an interactive program, which will ask the user to guess letters in order to find the word. The word has missing letters and can only be completed with the right letter. The game only gives three attempts to win. The words are input in a dictionary provided in the code. The script contains a randrange function to get a random word, and also a while loop, which make the program run till the user guess is right, or run out of attempts.",
         "images": [
           "images/portfolio/photography/guessgame.jpg"
@@ -119,12 +119,35 @@
       },
       {
         "title": "Wall Plaster Machine",
-        "startDate": "2021",
+        "startDate": "2015",
         "description": "The machine is a residential building, office building wall plastering special equipment. Wipable walls are: cement walls, brick walls, hollow walls, light brick walls, brick walls and so on. Applicable ash is: white sand gray, stone powder, cement ash, foam mortar, dry powder mortar, gypsum and so on. Plaster thickness of 3cm below the plaster height of 5m can be used below.",
         "images": [
           "images/portfolio/photography/yellow.jpeg"
         ],
         "url": "",
+        "technologies": [
+          {
+            "class": "",
+            "name": ""
+          },
+          {
+            "class": "",
+            "name": ""
+          },
+          {
+            "class": "",
+            "name": ""
+          }
+        ]
+      },
+      {
+        "title": "MinSeg Robot Balancing",
+        "startDate": "2021",
+        "description": "Self balancing robot made by using MATLAB and arduino",
+        "images": [
+          "images/portfolio/photography/Minseg.jpeg"
+        ],
+        "url": "https://www.youtube.com/shorts/kH0u-yroqcg",
         "technologies": [
           {
             "class": "",
