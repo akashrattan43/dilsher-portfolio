@@ -167,6 +167,25 @@
     
     "experience": [
       {
+        "company": "San Jose State University",
+        "title": "Technical Assistant",
+        "years": "01.20 - 12.20",
+        "mainTech": [
+          "Engineer 1/1/22"
+        ],
+        "technologies": [
+          "Nodes",
+          "Clusters",
+          "Python",
+          "ISMP",
+          "Mechanical",
+          "EF Core",
+          ".NET Core",
+          "Troubleshooting",
+          "Datacenter"
+        ]
+      },
+      {
         "company": "Intel",
         "title": "Technical Intern",
         "years": "01.20 - 12.20",
